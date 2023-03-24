@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: lightcyan;
+    color: aliceblue;
+    background-image: url(../Thundersandlightening.jpg);
+    background-size: cover;
+}
+
+figcaption,
+a{
+    background-color: black;
+    opacity:0.5 ;
+}
+a{
+    color:aliceblue;
+}
+a:hover{
+    color: aqua;
+}

@@ -1,0 +1,52 @@
+
+*{
+    border: 2px solid oldlace;
+    background-color: #35577D;
+}
+.title {
+    color: cornsilk;
+  }
+  .uppercase{
+   text-transform: uppercase; 
+  }
+  #article-title {
+    font-family: garamond;
+  }
+  img[src*='dumspics'] {
+    height: 200px;
+    width:  200px;
+  }
+   
+  a[href*='DecemberTrends'] {
+    color: black;
+  }
+  a:hover{ 
+    color: darkgreen;
+  }
+  .portrait{
+    color:blueviolet
+  }
+  .portrait{
+    font-style: italic;
+  }
+  .pink{
+    color:pink 
+  }
+  .bold{
+    font-weight: bold;
+  }
+  td{
+    color: green;
+  }
+  .first-colon{
+    color: cornflowerblue;
+  }
+  .first-colon{
+    font-family: cursive;
+  }
+  #pink{
+    color: purple;
+  }
+  #bold{
+    font-size: large;
+  }

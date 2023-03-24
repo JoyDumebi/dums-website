@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: bisque;
+    background-image: url("../pattern.jpeg");
+    
+}
+li{
+   list-style-type: none;
+   font-size: 30px;
+}
+*{
+    font-family: Helvetica;
+}
+.green{
+   background-color: rgb(47, 255, 165);
+color:whitesmoke;
+font-weight: 800;
+
+}
+strong{
+    color: blue;
+}
+.peach {
+    background-color: peachpuff;
+    color:whitesmoke;
+font-weight: 800;
+}
+.blue {
+    background-color: aqua;
+    color:whitesmoke;
+    font-weight: 800;
+}

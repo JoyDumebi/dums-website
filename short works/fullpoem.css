@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(6, 58, 58);
+    background-image: url(../Thundersandlightening.jpg);
+    background-size: cover;
+}
+h2,
+footer,
+p{
+   /* background-color: black;
+    opacity: 0.5 */
+    background: rgba(0,0,0,0.5);
+    color: rgb(249, 243, 243);
+}
+a:hover {
+    color: rgb(249, 243, 243);
+  }
+
+
+

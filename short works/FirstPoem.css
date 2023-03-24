@@ -1,0 +1,28 @@
+body{
+    font-family: 'josefin Sans', sans-serif;
+    text-align: center;
+    color: tomato;
+    background-color: lightcyan;
+    background-image: url('../thunderstrike.jpeg');
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+a {color: tomato;}
+nav{
+   /* background-color: black;
+    opacity: 0.5 */
+    background: rgba(0,0,0,0.5);
+    padding-top: 5px;
+}
+a:hover{
+    color: antiquewhite;
+
+}

@@ -1,0 +1,114 @@
+nav img {
+    display: block;
+  width: 100px;
+  margin: auto;
+}
+nav {
+    text-align: center;
+}
+nav span {
+    display: block;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 10px 0px;
+}
+nav a {
+    text-decoration: none;
+    color: orangered;
+}
+.header {
+    background-image: url("../coymistressimage.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+  }
+  .header h1, h2 {
+    background-color: #2a5253;
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 300px;
+    line-height: 20px;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  .content p {
+    border: 10px dashed #2a5253;
+display: block;
+font-size: larger;
+font-weight: 400;
+font-family: cursive;
+width: 50%;
+margin: 50px auto;
+padding: 20px;
+text-align: center;
+opacity: 0.5;
+  }
+.themer {
+    background-color: #2a5253;
+    position: relative;
+    background-size: cover;
+    height: 500px;
+    justify-content: center;
+}
+.themer::before {
+content: "";
+background-image: url(../127386.webp);
+background-size: cover;
+position: absolute;
+top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.50;
+}
+.pointers {
+    position: relative;
+    display: block;
+    font-family: fantasy;
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+}
+h2 {
+    position: relative;
+    color: #ffffff;  
+    line-height: 0.9;
+    text-align: center;
+}
+ul .family{
+    list-style-type: none;
+    padding: 200px;
+}
+ul .family,li{
+    display:inline-block;
+    background-color: #2a5253;
+    width: 200px;
+    padding: 20px;
+margin-bottom: 5px;
+}
+ul .family, li:hover{
+    background-color: #008962;
+    border-color: #008089;
+}
+.category{
+    color: #FFF;
+    font-size: large;
+    font-weight: bolder;
+    font-family: fantasy;
+    display: block;
+    letter-spacing: 2px;
+}
+.value a{
+    color: aqua;
+    font-size: larger;
+    font-family: fantasy;
+    display: block;
+    letter-spacing: 2px;
+}
+h6{
+    text-align: center;
+}

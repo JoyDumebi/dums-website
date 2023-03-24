@@ -1,0 +1,39 @@
+*{
+    background-color: burlywood;
+}
+.image1{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+h2{
+    background-color: rgb(13, 97, 130);
+    color: #fff;
+    border: 5px solid orange;
+    display: block;
+    text-align: center;
+    font-family: 'Yantramanav', sans-serif;
+    margin: 10px auto;
+    padding-top: 20px;
+    height: 50px;
+    width:400px;
+}
+.image2{
+    display: block;
+    margin: auto; 
+}
+figcaption{
+    border: 5px solid rgb(13, 97, 130);
+    color:#fff;
+    display:block;
+    text-align:center;
+    margin: 10px auto;
+    padding: auto;
+    padding-top: 10px;
+    background-color: rgb(13, 97, 130);
+    font-size: large;
+    width: 400px;
+    height: 50px;
+}
